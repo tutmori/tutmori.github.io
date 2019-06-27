@@ -1,0 +1,48 @@
+			<p class="nodisplay">Our business is built on:
+			<ul>
+			
+			<li>Solid industry contacts built-up over 50 years in the business representing the most prestigious authors, publishers, and literary agents from around the world</li>
+			<li>Daily contacts with the most talented editors ensures effective submissions to the most reputable publishers </li>
+			<li>Expert coordination of international co-editions</li>
+			<li>Full back-up of your Japan territory visits by our experienced staff and the use of our facilities as a base for your meetings</li>
+			<li>Agent services for your withholding tax reduction/exemption applications</li>
+			<li>Computerized accounting and royalty collection for the duration of the agreements</li>
+			
+			</ul>
+			</p>
+			
+			
+			------------
+			
+			
+						<h2 id="withholdingtax">Withholding Tax Forms</h2>
+			<p>When you are paid advances or royalties from Japan, your income is subject to deduction of Japanese income tax at a statuatory rate of 20%.  This is called the <em>withholding tax</em> because the tax amount is withheld at source and paid by your Licensee on your behalf to the National Tax Agency of Japan.  </p>
+			<p>However, it is possible to apply for a lower tax rate, or even be granted withholding tax exemption (in the case of US or UK residents), by submitting  the necessary forms together with some required certificates to the Japanese tax office, by the day before your royalty is due to be paid to you.  This section of the website provides links to information, and the necessary application forms to allow you to take advantage of these tax treaty reductions and exemptions.
+			<h3>If you are <em>neither a US nor a UK resident</em>, the procedure is relatively simple.</h3>
+			<ol>
+			You can either:
+			<li> Download the <em>Application Form for Income Tax Convention (Relief from Japanese Income Tax on Royalties)</em><a href="dl/form3.pdf"> Form 3</a> and send 2 completed and signed copies to us, </li>
+			<li>Or more simply send us a signed <em>authorization for withholding tax application</em> empowering Tuttle-Mori to fill out the above Form 3 on your behalf.  We have all the details about you, and about the deal, to allow us to do this quickly and accurately. </li>
+			</ol>
+		
+			<h3>If you are a <em>US resident</em>, the following forms are applicable to you.</h3>
+			<ol>
+			<li>Application Form for Income Tax Convention (Relief from Japanese Income Tax on Royalties) - <a href="dl/form3.pdf">Form 3</a> </li>
+			<li>Attachment Form for Limitation on Benefits Article (US)<a href="dl/form17US.pdf">- Form 17-US</a></li>
+			<li>Application for United States Residency Certification - <a href="dl/f8802.pdf">Form 8802</a> - you will need to mail this form to the IRS to have a Certificate of Residence issued to you.  Please follow the links to read the <a href="http://www.irs.gov/pub/irs-pdf/i8802.pdf">Instructions for Form 8802 (Rev. September 2006)</a> and <a href="http://www.irs.gov/businesses/small/international/article/0,,id=122559,00.html">Information on Completing the Form 8802, Application for United States Residency Certification</a> and <a href="http://www.irs.gov/businesses/small/international/;article/0,,id=137809,00.html">Form 8802, Application for United States Residency Certification - Additional Certification Requests</a></li>
+				<li>(optional) List of Members of Foreign Company or List of the Partners of Entity - <a href="dl/form16.pdf">Form 16</a> NB.  Only needed if you are a joint-venture, or jointly funded.</li>
+
+			</ol>
+			<h3>If you are a <em>UK resident</em>, the following forms are applicable to you.</h3>
+			<ol>
+			<li>Application Form for Income Tax Convention (Relief from Japanese Income Tax on Royalties) - <a href="dl/form3.pdf">Form 3</a> </li>
+			<li>Attachment Form for Limitation on Benefits Article (UK)<a href="dl/form17UK.pdf">- Form 17-UK</a></li>
+				<li>Here is the format for the <a href="dl/C_of_R_UK.pdf">UK Certificate of Residence </a>- you will need to have this signed at the inland revenue office where you file your tax returns</li>
+				<li>(optional) List of Members of Foreign Company or List of the Partners of Entity - <a href="dl/form16.pdf">Form 16</a> NB.  Only needed if you are a joint-venture, or jointly funded.</li>
+
+
+			</ol>
+
+			</p> 
+			
+					

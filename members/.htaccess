@@ -1,0 +1,4 @@
+AuthUserFile auth/dl/pswd
+AuthName "Please enter user name and password"
+AuthType Basic
+require valid-user

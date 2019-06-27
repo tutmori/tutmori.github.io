@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="description" content="your description goes here" />
+<meta name="keywords" content="your,keywords,goes,here" />
+<meta name="author" content="Your Name / Original design: Andreas Viklund - http://andreasviklund.com/" />
+<link type="text/css" rel="stylesheet" href="andreas04_j.css" media="screen,projection" />
+<title>タトル･モリ　エイジェンシー　－　会社案内</title>
+</head>
+
+<body>
+<div id="container">
+
+	<div id="sitetitle">
+		<h1 class="hide"><a href="index.html">Tuttle-Mori Agency</a></h1>
+		<h2 class="hide">タトル･モリ　エイジェンシー</h2>
+	</div>
+
+	<div id="menu">
+		<a href="index.html">ホーム</a>
+		<a href="svc_j.html">業務分野</a>
+		<a href="dl_j.html">ダウンロード</a>
+		<a href="aboutus_j.html">会社案内</a>
+		<a href="contact_j.html">お問合せ先</a>
+		<a href="aboutus.html">English</a>
+	</div>
+
+	<div id="content">
+		<div id="left">
+		<div class="entry">
+		<h2 id="corporatedata">会社概要</h2>
+		
+				<dl>
+				<dt>会社名</dt>		
+				<dd>株式会社タトル・モリ エイジェンシー</dd>
+	
+				<dt>創業</dt>
+				<dd>1948（チャールズ・イー・タトル商会日本支社）</dd>
+
+				<dt>設立</dt>       
+				<dd>1978</dd>
+				
+				<dt>中心業務</dt>	
+				<dd>日本語翻訳著作権および商品化権の契約仲介業務</dd>
+				<dt>代表者</dt>		
+				<dd>代表取締役社長　森健一</dd>
+				<dt>役員</dt>	
+				<dd>専務締役　岩崎喜和</dd>
+				<dd>取締役　荻野千草</dd>
+
+				<dt>資本金</dt>		
+				<dd>1000万円</dd>
+				
+				<dt>営業状況</dt>
+				<dd>年間売上約50億円</dd>
+
+				<dt>従業員数</dt>	
+				<dd>35</dd>
+				
+				<dt>本社所在地</dt>		
+				<dd>東京都千代田区神田神保町2丁目15番地<br />
+				<a class="link" href="images/tuttlemap_j.pdf">[地図    (115KB PDF)]</a></dd>
+
+				<dt>海外支社・現地スカウト</dt>
+				<dd>バンコク・
+				ロンドン・
+				ハリウッド・
+				ニューヨーク・
+				パリ</dd>
+
+				<dt>関連会社</dt>	
+				<dd>Ｔ.Ｍ.インターナショナル株式会社</dd>
+
+				<dt>取引銀行</dt>	
+				<dd>みずほ銀行　九段支店</dd>
+				<dd>ＵＦＪ銀行　本郷支店</dd>
+				<dd>三井住友銀行　神田支店</dd>
+				</dl>　　　　
+			
+			</div>
+			
+			<div class="entry">
+			<h2 id="companyhistory">沿革</h2>
+			<p>株式会社タトル・モリ エイジェンシーは、1948年創業のチャールズ・イー・タトル商会日本支社の著作権部が独立する形で、1978年に設立されました。日本では翻訳書のマーケットシェア60％を誇る、最大手の老舗翻訳著作権エージェントです。
+創業以来、私たちは世界各国の作品の多数を日本の出版社の方々にご紹介し、翻訳出版の契約を仲介してまいりました。</p>
+			<p>取り扱っている作品の分野は多岐にわたり、ベストセラー作家、話題のノン･フィクション、ロングセラーの児童書、豪華なビジュアル本にまで及びます。また本の出版権だけなく、映画化権、テレビドラマ化権、ラジオ劇場上映権、劇場上映権、朗読権、商品化権など、作品から派生する各種の著作権も扱っています。
+また、1991年からは、日本の代表的なマンガや書籍を海外に紹介する業務を開始し、私たちの仲介により、韓国、中国、台湾、タイ、ベトナム、インドネシア、アメリカ、イギリス、スペイン、ドイツ、イタリア、フランス、北欧諸国をはじめとした、海外２０カ国との契約を仲介し、マーケットを確実に拡大しつつあります。
+今後も、国内の優れた作品を海外に向けて紹介していく業務についてはさらに活発に行っていく予定です。</p>
+			<p>チャールズ・イー・タトル商会日本支社設立から半世紀以上経った現在、私たちが契約仲介した作品はすでに８万点を超えました。今後も創業時からの理念である“Agency To Span The East and West”をモットーに優れた作品の発掘に力を注ぎ、東西文化の掛け橋の一助となるよう、一層の努力を続けます。
+			</p>
+			</div>
+			
+		</div>
+
+		<div id="right">
+		<h2>会社案内メニュー</h2>
+		<ul>
+			<li><a  href="aboutus_j.html#corporatedata">会社概要</a></li>
+			<li><a  href="aboutus_j.html#companyhistory">沿革</a></li>
+			<li><a  href="fifties_j.html">タトル仲介書籍年表</a></li>
+		</ul>
+		</div>
+		
+		<div id="footer">		
+			<h2 class="hide">サイト情報</h2>
+			<span>株式会社タトル・モリ　エイジェンシー</span><br />
+&copy; 2006 Tuttle-Mori Agency| Design by <a href="http://andreasviklund.com">Andreas Viklund</a>  | <a href="http://validator.w3.org/check?uri=referer">XHTML</a> / <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> / AA / 508
+		</div>
+		
+	</div>
+	
+</div>
+</body>
+</html>
