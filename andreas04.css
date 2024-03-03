@@ -4,8 +4,7 @@ Version: 1.5, July 15, 2006 */
 body{
 margin:0;
 padding:0;
-font-family: 'Meiryo', 'ヒラギノ角ゴ　Pro W3', sans-serif;
-font:80% sans-serif, "Yu Gothic UI", "MS UI Gothic", Tahoma, Verdana, Arial, "ヒラギノ角ゴ　Pro W3", Osaka-UI, Osaka, "Arial Unicode MS";
+font:80% Verdana, Arial, Osaka-UI, Osaka,sans-serif;
 background:#e6e6e6 url(images/bodybg.png) repeat-x;
 color:#333;
 text-align:center;
@@ -36,6 +35,7 @@ font-weight:normal;
 h1{
 font-size:2.4em;
 letter-spacing:-2px;
+color:#567;
 margin:12px 0 5px 20px;
 }
 
@@ -45,19 +45,19 @@ text-decoration:none;
 
 h2{
 font-size:1.4em;
-letter-spacing:-1px;
+letter-spacing:-0.5px;
 margin:-10px 0 0 50px;
 color:#888;
 }
 
 h3{
-color:#888;
 color: #555;
 font-size:1.1em;
 margin:1em 0 0.5em 0.5em;
 }
 
 h4{
+color: #555;
 font-size:1em;
 font-weight:bold;
 }
@@ -126,16 +126,15 @@ border-right: 1px solid #eee;
 
 #content{
 margin-top:30px;
-letter-spacing:-0.7px;
+letter-spacing:0.5px;
 width:100%;
 clear:both;
-/*background:url(images/tuttlelogo_bottom.gif) bottom left no-repeat; */
+/*background:url(images/tuttlelogo_bluebottom.gif) bottom left no-repeat; */
 }
 
 #content h2{
 margin:0 0 10px 0;
-color: #3c3e1f;
-
+color:#3c3e1f;
 border-bottom:2px solid #abb;
 }
 
@@ -161,7 +160,7 @@ float:left;
 
 #right{
 margin-left:70%;
-
+margin-top:-15px;
 }
 
 #right h2{
@@ -186,6 +185,18 @@ font-weight:normal;
 color:#aaa;
 font-size:2em;
 letter-spacing:-2px;
+}
+
+#email a:{
+
+text-decoration:none;
+background: #fff url(images/emailbutton.png) repeat-x;
+}
+
+#email a:hover{
+
+text-decoration:none;
+background: #fff url(images/emailbuttonblue.png) repeat-x;
 }
 
 .entry{
