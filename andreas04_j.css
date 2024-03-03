@@ -16,6 +16,7 @@ a{
 text-decoration:none;
 color:#455c9d;
 font-weight:bold;
+font-family: '游ゴシック', 'ヒラギノ角ゴ　Pro W3', sans-serif;
 }
 
 a:hover{
@@ -41,6 +42,7 @@ margin:12px 0 5px 20px;
 
 h1 a:hover{
 text-decoration:none;
+font-family: '游ゴシック', 'ヒラギノ角ゴ　Pro W3', sans-serif;
 }
 
 h2{
@@ -195,6 +197,7 @@ border:2px solid #fff;
 background:#eee url(images/entrybg.png) repeat-x;
 color:#333;
 padding:10px 10px 0 10px;
+font-family: '游ゴシック', 'ヒラギノ角ゴ　Pro W3', sans-serif;
 }
 
 .entry a:hover, .intro a:hover{
