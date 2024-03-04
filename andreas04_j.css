@@ -4,7 +4,7 @@ Version: 1.5, July 15, 2006 */
 body{
 margin:0;
 padding:0;
-font:80% 'ヒラギノ角ゴ オールド W6', 'IPAexゴシック', Tahoma, Verdana, Arial, Osaka-UI, Osaka, sans-serif, "Arial Unicode MS";
+font:80% '源真ゴシック', 'IPAexゴシック', Tahoma, Verdana, Arial, Osaka-UI, Osaka, sans-serif, "Arial Unicode MS";
 background:#e6e6e6 url(images/bodybg.png) repeat-x;
 color:#333;
 text-align:center;
@@ -15,7 +15,7 @@ a{
 text-decoration:none;
 color:#455c9d;
 font-weight:bold;
-font-family: 'ヒラギノ角ゴ オールド W6', 'IPAexゴシック', sans-serif;
+font-family: '源真ゴシック', 'IPAexゴシック', sans-serif;
 }
 
 a:hover{
@@ -25,14 +25,14 @@ text-decoration:underline;
 p{
 margin:0 0 15px 0;
 line-height:1.8em;
-font-family: 'ヒラギノ角ゴ オールド W6', 'IPAexゴシック', sans-serif;
+font-family: '源真ゴシック', 'IPAexゴシック', sans-serif;
 }
 
 h1,h2,h3,h4{
 margin:0;
 padding:0;
 font-weight:normal;
-font-family: 'ヒラギノ角ゴ オールド W6', 'IPAexゴシック', sans-serif;
+font-family: '源真ゴシック', 'IPAexゴシック', sans-serif;
 }
 
 h1{
